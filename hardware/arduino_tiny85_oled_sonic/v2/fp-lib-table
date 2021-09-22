@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name Socket_Arduino_Uno)(type KiCad)(uri "$(KIPRJMOD)/Socket_Arduino_Uno.pretty")(options "")(descr ""))
+  (lib (name hc-sr04)(type KiCad)(uri "$(KIPRJMOD)/XCVR_HC-SR04.kicad_mod")(options "")(descr ""))
+  (lib (name HC-SR04)(type KiCad)(uri ${KIPRJMOD}/HC-SR04.pretty)(options "")(descr ""))
+  (lib (name sonic_oled)(type KiCad)(uri ${KIPRJMOD}/sonic_oled.pretty)(options "")(descr ""))
+)
